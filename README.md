@@ -1,9 +1,6 @@
-- 👋 Hi, I’m @FMEO-DIXON
-- 👀 I’m interested in ... Cyber securtiy network creation
-- 🌱 I’m currently learning ... I am currenly in school for cyber security 
-- 💞️ I’m looking to collaborate on ... softwear development for cyber security projects 
-- 📫 How to reach me ... email me at nathaniel@motivatedmillennialinc.com
+FMEO Inc is revolutionizing the streaming and advertising landscape with FMEO TV — a Web3-enabled platform where users get paid in FMEO Coin to watch content. We combine live and on-demand entertainment with CTV (Connected TV) advertising services, allowing brands to reach targeted audiences across 500+ streaming channels.
 
+FMEO Coin, built on the XRP Ledger, powers our ecosystem by rewarding viewers, tipping streamers, and facilitating decentralized value exchange. Join the movement where streaming meets ownership.
 
 <!---
 FMEO-DIXON/FMEO-DIXON is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
